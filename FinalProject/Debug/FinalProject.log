@@ -1,0 +1,5 @@
+﻿  finalProject.c
+C:\Users\Vatsav\source\repos\FinalProject\FinalProject\finalProject.c(191): warning C4715: 'getNewValue': not all control paths return a value
+C:\Users\Vatsav\source\repos\FinalProject\FinalProject\finalProject.c(402): warning C4715: 'getCardNumber': not all control paths return a value
+C:\Users\Vatsav\source\repos\FinalProject\FinalProject\finalProject.c(424): warning C4715: 'getSuitFromNumber': not all control paths return a value
+  FinalProject.vcxproj -> C:\Users\Vatsav\source\repos\FinalProject\Debug\FinalProject.exe
